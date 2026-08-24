@@ -1,0 +1,2 @@
+# Bending-Stress-Calculator-for-I-section-Beam-singly-symmetric-using-Python
+This project is about the bending stress calculation of a singly symmetric I section beam. The user has to input geomtric parameters of the beam and the code will automatically calculates the area, centroid, total MOI and resultant bending stress for the applied moment (in N-mm). Note**: This code is strictly for singly symmetric section.
